@@ -1,0 +1,11 @@
+--hip to fuck bees
+runScript("/play.lua", {"https://files.catbox.moe/tdzrz5.dfpwm, 1.3"})
+stopScript("/play.lua")
+
+-- release the bees
+bees() runScript("/play.lua", {"https://files.catbox.moe/tdzrz5.dfpwm", 1.3})
+beesOff() stopScript("/play.lua")
+
+-- sweet little bumblebee
+runScript("/play.lua", {"https://files.catbox.moe/e3smb0.dfpwm", 1.3})
+stopScript("/play.lua")
